@@ -121,15 +121,15 @@ This document also outlines how to report an incident if needed. </p>
 <div class="syllabus">
   
   <table class="table table-striped">
-    <tr> <td colspan="3"> <font color="Bright Gold"><strong>Intro</strong></font> </td> </tr>
-    <tr> <td colspan="3"> <a href="https://indico.cern.ch/event/1258537/surveys/4590?token=17f96380-c23b-4666-bdcc-3390d74fbd52" target="_blank" rel="noopener noreferrer">PRE-Tutorial Survey</a> </td> </tr>
-     <tr> <td class="col-md-2">Before</td>      <td class="col-md-3"><a href="{{ relative_root_path }}/00-uchicago_af_intro/index.html">Introduction to Analysis Facilities</a> </td> <td class="col-md-7"> Why would you want to work on US-ATLAS Analysis Facilities? </td> </tr>      
-     <tr> <td class="col-md-2">09:45</td> <td class="col-md-3"><a href="{{ relative_root_path }}/01-accountrequest/index.html">UChicago account request</a> </td> <td class="col-md-7"> How can I join the UChicago US-ATLAS analysis facility? </td> </tr>
-     <tr> <td class="col-md-2">10:30</td>       <td class="col-md-3"><a href="{{ relative_root_path }}/02-atlasenv/index.html">ATLAS environment setup</a> </td> <td class="col-md-7"> How does this differ from using lxplus? </td> </tr>
-      <tr> <td colspan="3"> <font color="LimeGreen"><strong>Overview</strong></font> </td> </tr>
-     <tr> <td class="col-md-2">15:00</td>       <td class="col-md-3"><a href="{{ relative_root_path }}/03-htcondor/index.html">HT Condor</a> </td> <td class="col-md-7"> How do I submit jobs with HTCondor? </td> </tr>
-     <tr> <td class="col-md-2">15:00</td>       <td class="col-md-3"><a href="{{ relative_root_path }}/04-jupyter_lab/index.html">Jupyter Lab</a> </td> <td class="col-md-7"> What is JupyterLab and how will it help the analysis process? </td> </tr>
-     <tr> <td class="col-md-2">15:00</td>       <td class="col-md-3"><a href="{{ relative_root_path }}/05-coffea_casa/index.html">Coffea Casa </a> </td> <td class="col-md-7"> What is Coffea Casa? </td> </tr>
+    <tr> <td colspan="3"> <font color="Bright Gold"><strong>Account setup</strong></font> </td> </tr>
+     <tr> <td class="col-md-2">15:00</td>      <td class="col-md-3"><a href="{{ relative_root_path }}/00-uchicago_af_intro/index.html">Introduction to Analysis Facilities</a> </td> <td class="col-md-7"> Why would you want to work on US-ATLAS Analysis Facilities? </td> </tr>      
+     <tr> <td class="col-md-2">15:10</td> <td class="col-md-3"><a href="{{ relative_root_path }}/01-accountrequest/index.html">UChicago account request</a> </td> <td class="col-md-7"> How can I join the UChicago US-ATLAS analysis facility? </td> </tr>
+     <tr> <td class="col-md-2">15:20</td>       <td class="col-md-3"><a href="{{ relative_root_path }}/02-atlasenv/index.html">ATLAS environment setup</a> </td> <td class="col-md-7"> How does this differ from using lxplus? </td> </tr>
+    <tr> <td colspan="3"> <font color="LimeGreen"><strong>Overview of the main</strong></font> </td> </tr>
+     <tr> <td class="col-md-2">15:30</td>       <td class="col-md-3"><a href="{{ relative_root_path }}/03-htcondor/index.html">HT Condor</a> </td> <td class="col-md-7"> How do I submit jobs with HTCondor? </td> </tr>
+     <tr> <td class="col-md-2">15:30</td>       <td class="col-md-3"><a href="{{ relative_root_path }}/04-jupyter_lab/index.html">Jupyter Lab</a> </td> <td class="col-md-7"> What is JupyterLab and how will it help the analysis process? </td> </tr>
+     <tr> <td class="col-md-2">15:30</td>       <td class="col-md-3"><a href="{{ relative_root_path }}/05-coffea_casa/index.html">Coffea Casa </a> </td> <td class="col-md-7"> What is Coffea Casa? </td> </tr>
+     <tr> <td colspan="3"> <font color="LimeGreen"><strong>Extra</strong></font> </td> </tr>
      <tr> <td class="col-md-2">EXTRA</td>       <td class="col-md-3"><a href="{{ relative_root_path }}/06-goodpractices/index.html">Good Practices</a> </td> <td class="col-md-7"> How can we make the best use of the resources at US-ATLAS Analysis Facilities? </td> </tr>
     <tr> <td colspan="3"> <a href="https://indico.cern.ch/event/1258537/surveys/4591?token=ea7c57a7-bea5-402d-9358-8250f04a7dc4" target="_blank" rel="noopener noreferrer">POST-Tutorial Survey</a> </td> </tr>
   </table>
