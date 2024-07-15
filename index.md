@@ -129,8 +129,8 @@ This document also outlines how to report an incident if needed. </p>
      <tr> <td class="col-md-2">15:30</td>       <td class="col-md-3"><a href="{{ relative_root_path }}/03-htcondor/index.html">HT Condor</a> </td> <td class="col-md-7"> How do I submit jobs with HTCondor? </td> </tr>
      <tr> <td class="col-md-2">15:30</td>       <td class="col-md-3"><a href="{{ relative_root_path }}/04-jupyter_lab/index.html">Jupyter Lab</a> </td> <td class="col-md-7"> What is JupyterLab and how will it help the analysis process? </td> </tr>
      <tr> <td class="col-md-2">15:30</td>       <td class="col-md-3"><a href="{{ relative_root_path }}/05-coffea_casa/index.html">Coffea Casa </a> </td> <td class="col-md-7"> What is Coffea Casa? </td> </tr>
-     <tr> <td colspan="3"> <font color="LimeGreen"><strong>Extra</strong></font> </td> </tr>
-     <tr> <td class="col-md-2">EXTRA</td>       <td class="col-md-3"><a href="{{ relative_root_path }}/06-goodpractices/index.html">Good Practices</a> </td> <td class="col-md-7"> How can we make the best use of the resources at US-ATLAS Analysis Facilities? </td> </tr>
+     <tr> <td colspan="3"> <font color="LimeGreen"><strong>Extras</strong></font> </td> </tr>
+     <tr> <td class="col-md-2"> </td>       <td class="col-md-3"><a href="{{ relative_root_path }}/06-goodpractices/index.html">Good Practices</a> </td> <td class="col-md-7"> How can we make the best use of the resources at US-ATLAS Analysis Facilities? </td> </tr>
   </table>
 
 </div>
