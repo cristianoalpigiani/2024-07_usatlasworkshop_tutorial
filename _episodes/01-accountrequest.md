@@ -31,7 +31,7 @@ Go to <a href="https://af.uchicago.edu">UChicago Analysis Facility Website</a> a
 
 Accept use policy and continue.
 
-![image info](./../fig/i_a2policy_NEW2.png/){:width="700"}{: .image-with-shadow }
+![image info](./../fig/i_a2policy_NEW3.png/){:width="700"}{: .image-with-shadow }
 
 You will land on the Globus site: <strong>use your CERN or institutional account and login</strong>.
 
@@ -85,8 +85,7 @@ After logged in you should see something like the following images, containing a
 
 ![image info](./../fig/i_a10insshlogo.png){:width="500"}{: .image-with-shadow }
 
-If it does not work, please double check that you have been approved, have a public key uploaded and have waited at least 15 minutes. If you still have an issue, feel free to reach out to us for help.
-
+<strong>If it does not work, please double check that you have been approved, have a public key uploaded and have waited at least 15 minutes. If you still have an issue, feel free to reach out to us for help.</strong>
 
 <!----------------------------------- fin --------------------------------------------->
 {% include links.md %}
