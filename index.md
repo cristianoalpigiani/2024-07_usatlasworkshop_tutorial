@@ -134,9 +134,13 @@ This document also outlines how to report an incident if needed. </p>
      <tr> <td class="col-md-2"> </td>       <td class="col-md-3"><a href="{{ relative_root_path }}/06-goodpractices/index.html">Good Practices</a> </td> <td class="col-md-7"> How can we make the best use of the resources at US-ATLAS Analysis Facilities? </td> </tr>
   </table>
 
-![image info](./../fig/AnalysisTools.png){:width="700"}{: .image-with-shadow }
-
 </div>
+
+
+![image info](./../fig/i_a1signup_NEW.png){:width="700"}{: .image-with-shadow }
+
+
+![image info](./../fig/AnalysisTools.png){:width="700"}{: .image-with-shadow }
 
 
 <!---
