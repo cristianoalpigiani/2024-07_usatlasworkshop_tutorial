@@ -136,7 +136,7 @@ This document also outlines how to report an incident if needed. </p>
 
 </div>
 
-![image info](./../fig/AnalysisTools.png){: .image-with-shadow }
+![image info](./../fig/AnalysisTools.png){:width="700"}{: .image-with-shadow }
 
 <!---
 {% comment %} SURVEYS {% endcomment %}
