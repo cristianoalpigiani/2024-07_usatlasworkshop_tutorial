@@ -121,7 +121,7 @@ This document also outlines how to report an incident if needed. </p>
 <div class="syllabus">
   
   <table class="table table-striped">
-    <tr> <td colspan="3"> <font color="Bright Gold"><strong>Account setup</strong></font> </td> </tr>
+    <tr> <td colspan="3"> <font color="Bright Gold"><strong>Setting up...</strong></font> </td> </tr>
      <tr> <td class="col-md-2">15:00</td>      <td class="col-md-3"><a href="{{ relative_root_path }}/00-uchicago_af_intro/index.html">Introduction to Analysis Facilities</a> </td> <td class="col-md-7"> Why would you want to work on US-ATLAS Analysis Facilities? </td> </tr>      
      <tr> <td class="col-md-2">15:05</td> <td class="col-md-3"><a href="{{ relative_root_path }}/01-accountrequest/index.html">UChicago account request</a> </td> <td class="col-md-7"> How can I join the UChicago US-ATLAS analysis facility? </td> </tr>
      <tr> <td class="col-md-2">15:10</td>       <td class="col-md-3"><a href="{{ relative_root_path }}/02-atlasenv/index.html">ATLAS environment setup</a> </td> <td class="col-md-7"> How does this differ from using lxplus? </td> </tr>
@@ -129,7 +129,6 @@ This document also outlines how to report an incident if needed. </p>
     <tr> <td class="col-md-2">15:15</td>       <td class="col-md-3"><a href="{{ relative_root_path }}/07-centr_ntp_prod/index.html">Centralised ntuple production</a> </td> <td class="col-md-7"> How do I produce my analysis input files?</td> </tr>
      <tr> <td class="col-md-2">15:20</td>       <td class="col-md-3"><a href="{{ relative_root_path }}/03-htcondor/index.html">HT Condor</a> </td> <td class="col-md-7"> How do I submit jobs with HTCondor? </td> </tr>
      <tr> <td class="col-md-2">15:25</td>       <td class="col-md-3"><a href="{{ relative_root_path }}/04-jupyter_lab/index.html">Jupyter Lab</a> </td> <td class="col-md-7"> What is JupyterLab and how will it help the analysis process? </td> </tr>
-     <tr> <td class="col-md-2">15:30</td>       <td class="col-md-3"><a href="{{ relative_root_path }}/05-coffea_casa/index.html">R&D tools </a> </td> <td class="col-md-7"> What is Coffea Casa? </td> </tr>
      <tr> <td colspan="3"> <font color="LimeGreen"><strong>Extras</strong></font> </td> </tr>
      <tr> <td class="col-md-2"> </td>       <td class="col-md-3"><a href="{{ relative_root_path }}/06-goodpractices/index.html">Good Practices</a> </td> <td class="col-md-7"> How can we make the best use of the resources at US-ATLAS Analysis Facilities? </td> </tr>
   </table>
