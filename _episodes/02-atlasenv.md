@@ -118,10 +118,6 @@ cp data23_13p6TeV.00455975.physics_Main.merge.AOD.f1367_m2185._lb0820._0001.1 $H
 
 
 <!------------------------------------------------------------------------------------->
-<!------------------------------  --------------------------------->
-
-
-<!------------------------------------------------------------------------------------->
 <!------------------------------ data to localgroupdisks --------------------------------->
 
 <h2 id="rucio">Transfer data to local group disks (Rucio R2D2)</h2>
@@ -135,7 +131,7 @@ Once you reach the main page, you can follow the "tour" that will guide you thro
 ![image info](./../fig/R2D2_MainPage.png){:width="1600"}{: .image-with-shadow }
 
 
-h2 id="xcache">XCache</h2>
+<h2 id="xcache">XCache</h2>
 
 Analysis Facility maintains an XCache server (managed through SLATE), with 25 x 1.5 TB NVMes and 2x25 Gbps NIC. ServiceX uses the XCache by default. Users can manually add the prefix "root://192.170.240.18:1094//" to their root paths, eg:
 
