@@ -29,12 +29,7 @@ Go to <a href="https://af.uchicago.edu">UChicago Analysis Facility Website</a> a
 
 ![image info](./../fig/i_a1signup_NEW.png){:width="700"}{: .image-with-shadow }
 
-Accept use policy and continue.
-
-![image info](./../fig/i_a1signup_NEW.png){:width="700"}{: .image-with-shadow }
-![image info](./../fig/i_a2policy_NEW){:width="700"}{: .image-with-shadow }
-
-You will land on the Globus site: <strong>use your CERN or institutional account and login</strong>.
+Accept use policy and continue. You will land on the Globus site: <strong>use your CERN or institutional account and login</strong>.
 
 ![image info](./../fig/i_a3organiz.png){:width="700"}{: .image-with-shadow }
 
