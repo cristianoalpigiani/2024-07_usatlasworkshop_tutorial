@@ -10,9 +10,9 @@ keypoints:
 - "Check JupyterLab documentation"
 ---
 
-Users can deploy one or more private JupyterLab applications.
+Users can deploy one or more private JupyterLab applications. To encourage fair sharing these applications are time limited. 
 
-To encourage fair sharing these applications are time limited. 
+![image info](./../fig/Jupiter.png){: .image-with-shadow }
 
 ## Selecting a number of GPU instances
 > ## Number of GPU instances
