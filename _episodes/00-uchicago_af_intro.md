@@ -15,7 +15,7 @@ keypoints:
 
 <br>
 
-US ATLAS has three shared Tier 3 analysis facilities providing software & computing resources, one of the most recent is located at The University of Chicago and was pre-launched in October 2021.
+US ATLAS has <font color="LimeGreen">three shared Tier 3 analysis facilities<strong></font> providing software & computing resources, one of the most recent is located at The University of Chicago and was pre-launched in October 2021.
 
 **<center> Funded by NSF (National Science Foundation) and co-located with MWT2-UC </center>**
 
@@ -29,7 +29,7 @@ US ATLAS has three shared Tier 3 analysis facilities providing software & comput
 
 Broad range of activities carried out & supported at the facilities, including:
 - <strong>Event generation</strong>, <strong>detector simulation</strong> with ATLAS or standalone software
-- <strong>Data movement</strong> (via R2D2) and access (using Xcache)
+- <strong>Data movement</strong> (via R2D2) and access (using <strong>Xcache</strong>)
 - <strong>Data processing</strong> for analysis & statistics using ATLAS software in CVMFS
 - Graphical applications for example via X-windows
 - Software development, testing code before submitting to batch system or Panda
