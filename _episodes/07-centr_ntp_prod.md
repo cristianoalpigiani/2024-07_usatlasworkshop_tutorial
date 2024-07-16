@@ -12,14 +12,6 @@ keypoints:
 
 ---
 
-Step-by-step tutorial can be found here <a href="https://atlassoftwaredocs.web.cern.ch/guides/ntuples_production/">Centralised N-tuple Production</a>.
-
-Main steps:
-
-- Submitting a test jobs
-- Greate a "gTag"
-- Submit the production on how many samples you need
-
 > ## Main steps
 >
 > - Submitting a test jobs
@@ -32,6 +24,7 @@ Main steps:
 
 ![image info](./../fig/Screenshots-NtupleProduction.png){:width="1000"}{: .image-with-shadow }
 
+A detailed guide on how to submit a production can be found here <a href="https://atlassoftwaredocs.web.cern.ch/guides/ntuples_production/">Centralised N-tuple Production</a>.
 
 <!----------------------------------- fin --------------------------------------------->
 {% include links.md %}

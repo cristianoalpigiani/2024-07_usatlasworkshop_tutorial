@@ -15,7 +15,7 @@ keypoints:
 
 <br>
 
-US ATLAS has <font color="LimeGreen">three shared Tier 3 analysis facilities<strong></font> providing software & computing resources, one of the most recent is located at The University of Chicago and was pre-launched in October 2021.
+US ATLAS has <font color="LimeGreen"><strong>three shared Tier 3 analysis facilities<strong></font> providing software & computing resources, one of the most recent is located at The University of Chicago and was pre-launched in October 2021.
 
 **<center> Funded by NSF (National Science Foundation) and co-located with MWT2-UC </center>**
 
