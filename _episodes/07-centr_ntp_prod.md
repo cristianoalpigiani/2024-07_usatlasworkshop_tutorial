@@ -30,7 +30,7 @@ Main steps:
 {: .callout}
 
 
-![image info](./../fig/Screenshots-NtupleProduction.png){:width="700"}{: .image-with-shadow }
+![image info](./../fig/Screenshots-NtupleProduction.png){:width="1000"}{: .image-with-shadow }
 
 
 <!----------------------------------- fin --------------------------------------------->
