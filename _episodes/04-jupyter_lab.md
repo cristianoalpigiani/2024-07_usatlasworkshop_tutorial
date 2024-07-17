@@ -10,9 +10,15 @@ keypoints:
 - "Check JupyterLab documentation"
 ---
 
+JupyterLab is the latest <strong>web-based interactive development environment for notebooks, code, and data</strong>. 
 Users can deploy one or more private JupyterLab applications. To encourage fair sharing these applications are time limited. 
 
 ![image info](./../fig/Jupiter.png){: .image-with-shadow }
+
+![image info](./../fig/JupiterApplications.png){: .image-with-shadow }
+
+![image info](./../fig/JupiterKernels.png){: .image-with-shadow }
+
 
 ## Selecting a number of GPU instances
 > ## Number of GPU instances
