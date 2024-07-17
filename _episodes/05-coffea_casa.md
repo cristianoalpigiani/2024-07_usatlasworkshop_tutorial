@@ -132,7 +132,7 @@ For your code to be able to authenticate your requests, you need to download a s
 
 <h2 id="columnar">Check these examples!!!</h2> 
 
-- <a href="https://github.com/iris-hep/uscms-idap-training/tree/main/coffea"> </a>
+- <a href="https://github.com/iris-hep/uscms-idap-training/tree/main/coffea">CMS examples (most updated ones)</a>
 
 - <a href="https://github.com/nikoladze/agc-tools-workshop-2021-physlite">Columnar data analysis with DAOD_PHYSLITE example</a>
 
