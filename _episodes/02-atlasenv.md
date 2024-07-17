@@ -133,7 +133,7 @@ Once you reach the main page, you can follow the "tour" that will guide you thro
 
 <h2 id="xcache">XCache</h2>
 
-Analysis Facility maintains an XCache server (managed through SLATE), with 25 x 1.5 TB NVMes and 2x25 Gbps NIC. ServiceX uses the XCache by default. Users can manually add the prefix "root://192.170.240.18:1094//" to their root paths, eg:
+<strong>Analysis Facility maintains an XCache server</strong> (managed through SLATE), with 25 x 1.5 TB NVMes and 2x25 Gbps NIC. ServiceX uses the XCache by default. Users can manually add the prefix "root://192.170.240.18:1094//" to their root paths, eg:
 
 If the original path is:
 
