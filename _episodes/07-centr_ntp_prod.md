@@ -25,6 +25,8 @@ keypoints:
 
 - Main advantages: ProdSys is a well known and robust system, and allows to “follow” the standard workflow (e.g. ntuple production linked directly to the parent DAOD production)
 
+- Analysers with group production roles create the gTag, the request, submit and manage the production (retry the jobs and change only some job parameters, #GB/jobs))
+
 ![image info](./../fig/Screenshots-NtupleProduction.png){:width="1000"}{: .image-with-shadow }
 
 A detailed guide on how to submit a production can be found here
