@@ -49,13 +49,13 @@ Good! Now you will create your profile.
 
 ![image info](./../fig/i_a6profile.png){:width="700"}{: .image-with-shadow }
 
+To create your profile just type in the information required.
+
 
 <!------------------------------------------------------------------------------------->
 <!------------------------------ Upload public ssh key--------------------------------->
 
 <h2 id="key">Upload public SSH key</h2>
-
-To create your profile just type in the information required.
 
 Now you will upload an SSH public key, **<font color="red">important: do not copy the contents of a file that does not end in `.pub`. You must only upload the `public`(.pub)</font>** part of the key.
 if you are not sure if you have generated an SSH Public Key before, try the following instructions on your laptop command line.
