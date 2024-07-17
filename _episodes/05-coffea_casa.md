@@ -82,7 +82,7 @@ Coffea-Casa -  Is a Prototype of an Analysis Facility for **<font color=LimeGree
 
 <h2 id="docker">Docker</h2>
 
-![image info](./../fig/coffea_docker.png){:width="700"}{: .image-with-shadow }
+![image info](./../fig/coffea_docker_NEW.png){:width="700"}{: .image-with-shadow }
 ![image info](./../fig/coffea_docker2.png){:width="700"}{: .image-with-shadow }
 
 <h2 id="cluster">Cluster resources</h2>
