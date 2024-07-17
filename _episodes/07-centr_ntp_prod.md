@@ -8,13 +8,13 @@ objectives:
 - " Produce ntuples "
 
 keypoints:
-- "This will user ntuple production step very easy"
+- "This system simply a lot user ntuple production step"
 
 ---
 
 - Built a system to centrally produce user/CP ntuples as we do already for MCProd, group production, etc using ProdSys
 
-- Main advantages: ProdSys is a well known and robust system, and allows to “follow” the standard workflow (e.g. ntuple production linked directly to the parent DAOD production)
+- Main advantages: ProdSys is a well known and robust system, and allows to “follow” the standard workflow (e.g. <strong>ntuple production linked directly to the parent DAOD production</strong>)
 
 - Analysers with group production roles create the gTag, the request, submit and manage the production (retry the jobs and change only some job parameters, #GB/jobs))
 
