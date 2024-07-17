@@ -136,6 +136,16 @@ This document also outlines how to report an incident if needed. </p>
 
 </div>
 
+For details about all tools discussed in this page refer to
+
+<p><br /></p>
+<div class="text-center">
+  <a href="https://indico.cern.ch/event/1376945/overview" target="_blank" rel="noopener noreferrer">
+    <button type="button" class="btn btn-info" style="font-size:large;text-align:center">US ATLAS / IRIS-HEP Analysis Software Training Event 2024</button>
+  </a>
+</div>
+<p><br /></p>
+
 
 
 <!---
