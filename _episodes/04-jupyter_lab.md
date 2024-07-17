@@ -13,7 +13,14 @@ keypoints:
 JupyterLab is the latest <strong>web-based interactive development environment for notebooks, code, and data</strong>. 
 Users can deploy one or more private JupyterLab applications. To encourage fair sharing these applications are time limited. 
 
-<a href="https://jupyter.org">https://jupyter.org</a>
+<p><br /></p>
+<div class="text-center">
+  <a href="https://jupyter.org" target="_blank" rel="noopener noreferrer">
+    <button type="button" class="btn btn-info" style="font-size:large;text-align:center">jupiter</button>
+  </a>
+</div>
+<p><br /></p>
+
 
 ![image info](./../fig/Jupiter.png){: .image-with-shadow }
 
