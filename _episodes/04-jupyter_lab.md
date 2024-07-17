@@ -15,9 +15,9 @@ Users can deploy one or more private JupyterLab applications. To encourage fair 
 
 ![image info](./../fig/Jupiter.png){: .image-with-shadow }
 
-![image info](./../fig/JupiterApplications.png){: .image-with-shadow }
+![image info](./../fig/JupiterApplications.png){:width="700"}{: .image-with-shadow }
 
-![image info](./../fig/JupiterKernels.png){: .image-with-shadow }
+![image info](./../fig/JupiterKernels.png){:width="700"}{: .image-with-shadow }
 
 
 ## Selecting a number of GPU instances
