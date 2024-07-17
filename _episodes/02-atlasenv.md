@@ -57,7 +57,7 @@ For this tutorial we will work at the /home area but remember to move to the /da
  
 ## Accessing ATLAS data: your X509 proxy certificate
 
-If you need to access ATLAS Data, you will need to copy your X509 certificate to the Analysis Facility. Store your certificate in $HOME/.globus and do:
+If you need to access ATLAS Data, you will need to copy your X509 certificate to the Analysis Facility (<a href="https://cafiles.cern.ch/cafiles/">https://cafiles.cern.ch/cafiles/</a>.). Store your certificate in $HOME/.globus and do:
 
 * note: if the extension of your certificate is `.p12`, just replace `.pfx` with `.p12`
 
