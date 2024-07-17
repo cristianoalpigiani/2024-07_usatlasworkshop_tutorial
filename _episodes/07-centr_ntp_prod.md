@@ -12,15 +12,6 @@ keypoints:
 
 ---
 
-> ## Main steps
->
-> - Submitting a test jobs
->
-> - Greate a "gTag"
->
-> - Submit the production on how many samples you need
-{: .callout}
-
 - Built a system to centrally produce user/CP ntuples as we do already for MCProd, group production, etc using ProdSys
 
 - Main advantages: ProdSys is a well known and robust system, and allows to “follow” the standard workflow (e.g. ntuple production linked directly to the parent DAOD production)
