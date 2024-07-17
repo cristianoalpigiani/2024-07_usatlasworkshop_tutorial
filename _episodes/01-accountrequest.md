@@ -72,7 +72,7 @@ Paste the contents of the clipboard on the next text box and update your profile
 <!------------------------------ login via ssh--------------------------------->
 <h2 id="login">Login via SSH</h2>
 
-Now that you signed up on the Analysis Facility website and uploaded a key, it will take a little bit of time to process your profile and add your account to the system. After 10-15 minutes, you ought to be able to login via SSH:
+Now that you signed up on the Analysis Facility website and uploaded a key, it will take a little bit of time to process your profile and add your account to the system. <strong>After 10-15 minutes, you ought to be able to login via SSH</strong>:
 
 ```bash
 ssh <your_unix_username>@login.af.uchicago.edu
