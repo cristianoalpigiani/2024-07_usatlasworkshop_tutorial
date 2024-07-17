@@ -29,7 +29,7 @@ keypoints:
 
 <h2 id="intro">Introduction</h2>
 
-HTCondor is a specialized batch system for managing compute-intensive jobs. It provides a queuing mechanism, scheduling policy, priority scheme, and resource classifications. Users submit their compute jobs to HTCondor, HTCondor puts the jobs in a queue, runs them, and then informs the user as to the result.
+HTCondor is a <strong>specialized batch system for managing compute-intensive jobs</strong>. It provides a queuing mechanism, scheduling policy, priority scheme, and resource classifications. Users submit their compute jobs to HTCondor, HTCondor puts the jobs in a queue, runs them, and then informs the user as to the result.
 
 This architecture can be implemented in different ways.
 
