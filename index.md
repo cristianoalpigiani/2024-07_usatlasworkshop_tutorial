@@ -136,7 +136,7 @@ This document also outlines how to report an incident if needed. </p>
 
 </div>
 
-For details about all tools discussed in this page refer to
+<strong>For details about all tools discussed in this page refer to</strong>
 
 <p><br /></p>
 <div class="text-center">
